@@ -1,0 +1,1 @@
+export const CHILLI_CHANGE = 'CHILLI_CHANGE';
